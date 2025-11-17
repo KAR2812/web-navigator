@@ -1,0 +1,10 @@
+stable-baselines3[extra]
+gym==0.26.2
+torch        # pick CPU or GPU wheel appropriate for your system
+tensorboard  # optional (for logs)
+transformers
+sentencepiece
+langdetect
+scikit-learn
+pandas
+joblib

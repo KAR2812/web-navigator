@@ -1,0 +1,9 @@
+requests
+httpx
+python-dotenv
+chromadb
+pydantic
+termcolor
+ratelimit
+uv
+playwright
