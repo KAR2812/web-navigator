@@ -2,21 +2,7 @@
 
   <h1>🌐 Web-Navigator</h1>
 
-  <a href="https://github.com/Jeomon/Web-Agent/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-  </a>
-  <img src="https://img.shields.io/badge/python-3.12%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Powered%20by-Playwright-45ba63?logo=playwright&logoColor=white" alt="Powered by Playwright">
-  <br>
 
-  <a href="https://x.com/CursorTouch">
-    <img src="https://img.shields.io/badge/follow-%40CursorTouch-1DA1F2?logo=twitter&style=flat" alt="Follow on Twitter">
-  </a>
-  <a href="https://discord.com/invite/Aue9Yj2VzS">
-    <img src="https://img.shields.io/badge/Join%20on-Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Join us on Discord">
-  </a>
-
-</div>
 
 <br>
 
